@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "location": "belakang",
+    "name": "softdrink",
+    "imgPath": "assets/category/sofdrink.jpg",
+    "created_at": "2020-11-23T04:41:12.000000Z",
+    "updated_at": "2020-11-23T04:41:12.000000Z"
+  },
+  {
+    "id": 2,
+    "location": "belakang",
+    "name": "juice",
+    "imgPath": "assets/category/juice.jpg",
+    "created_at": "2020-11-23T04:53:40.000000Z",
+    "updated_at": "2020-11-23T04:53:40.000000Z"
+  },
+  {
+    "id": 3,
+    "location": "belakang",
+    "name": "pecel",
+    "imgPath": "assets/category/pecel.jpg",
+    "created_at": "2020-11-23T04:53:40.000000Z",
+    "updated_at": "2020-11-23T04:53:40.000000Z"
+  }
+]
